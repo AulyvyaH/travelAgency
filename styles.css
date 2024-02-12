@@ -1,0 +1,14 @@
+.logo h1{
+    font-size: large;
+    font-weight: bold;
+    color: white;
+
+}
+
+.point_orange{
+    color: rgb(217, 116, 34);
+}
+
+footer{
+    background-color: rgb(26, 25, 25);
+}
